@@ -210,6 +210,12 @@
       "sourceType": "github",
       "skillPath": "skills/talking-head-recut/SKILL.md",
       "computedHash": "5c2d3e92daa350f38e01a44272b31384b6db4e51adf23fd144ef530b8f0ea781"
+    },
+    "video-use": {
+      "source": "browser-use/video-use",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "ab2311b87b70c2200f88d1b815957b03deb67d08042f7545b7b3f7e727783865"
     }
   }
 }
